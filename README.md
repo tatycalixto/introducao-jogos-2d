@@ -1,2 +1,4 @@
-# introducao-jogos-2d
-Repositório com os códigos e materiais do curso de Introdução a Jogos 2D
+# Introdução a Jogos 2D
+Projetos das Aulas:
+<p> :computer:<a href="#"> Clone do Jogo Kaboom - Atari </a>  </p>
+<--:white_check_mark:-->
