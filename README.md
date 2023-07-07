@@ -1,7 +1,7 @@
 # Introdução a Jogos 2D
 Projetos das Aulas:
 <p> 🕹️ Clone do Jogo Kaboom - Atari </a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2001"> Aula 01 :white_check_mark: </p>
-<p> 🕹️ Clone do Jogo Kaboom - Atari </a> <a href="#"> Aula 02 :white_check_mark: </p>
+<p> 🕹️ Clone do Jogo Kaboom - Atari </a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2002"> Aula 02 :white_check_mark: </p>
 
 # Material  Extra  -  Construct 3 🎮
 <p> 🔗 <a href="https://www.construct.net/en/tutorials?flang=34"> Tutorial para Iniciantes </a> </p>
