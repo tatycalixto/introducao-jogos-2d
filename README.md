@@ -6,7 +6,7 @@ Projetos das Aulas:
 <p> 🕹️ Clone do Jogo Kaboom - Atari </a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2004"> Aula 04 :white_check_mark: </p>
 <p> 🕹️ Jogo de Plataforma - Versão 1</a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2005"> Aula 05 :white_check_mark: </p>
 <p> 🕹️ Jogo de Plataforma  - Versão 2 </a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2006"> Aula 06 :white_check_mark: </p>
-<p> 🕹️ Jogo de Plataforma  - Versão 3 </a> <a href="#"> Aula 07 :white_check_mark: </p>
+<p> 🕹️ Jogo de Plataforma  - Versão 3 </a> <a href="https://github.com/tatycalixto/introducao-jogos-2d/tree/main/Aula%2007"> Aula 07 :white_check_mark: </p>
 
 # Material  Extra  -  Construct 3 🎮
 <p> 🔗 <a href="https://www.construct.net/en/tutorials?flang=34"> Tutorial para Iniciantes </a> </p>
